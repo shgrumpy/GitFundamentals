@@ -1,2 +1,9 @@
-First line for test
-Second line for test
+//First line for test
+//Second line for test
+
+#include <stdio.h>
+
+int main(int argc, char* argv[]) {
+	printf("Hello world!\n");
+	return 0;
+}
